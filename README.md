@@ -33,7 +33,7 @@ After downloading, you should see the uploaded version with this code
 - You should have a JS editor such as VSCode, SublimeText, Atom, Eclipse etc. in your computer. VSCode can be downloaded from this address:
   https://code.visualstudio.com/download
 - Pull the project into your computer by using this code.
-```git clone https://github.com/hho-1/stock-Frontend.git```
+```git clone https://github.com/hho-1/Stock_Management_App.git```
 - After pulling the project in your computer, you should open project folder with VSCode.
 - For installing necessary packages, write and run the code below in terminal:
   ```npm install```
